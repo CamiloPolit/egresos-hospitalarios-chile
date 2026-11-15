@@ -1,0 +1,20 @@
+# Notebooks
+notebooks/
+*.ipynb
+
+# Presentación
+presentacion/
+
+# Entorno virtual (se recrea con requirements.txt)
+.venv/
+
+# Datos originales DEIS (~1,4 GB)
+EGRESOS_*/
+
+# Generados por el pipeline (src/run_all.py)
+data/
+output/
+
+# Archivos automáticos de macOS y Python
+.DS_Store
+__pycache__/

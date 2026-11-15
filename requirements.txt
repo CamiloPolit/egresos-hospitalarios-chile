@@ -1,0 +1,8 @@
+pyspark==3.5.*
+pyarrow<18
+pandas
+openpyxl
+matplotlib
+seaborn
+jupyter
+nbconvert
